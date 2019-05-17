@@ -1,2 +1,2 @@
 # English-to-Java
-Uses commands in english and translates them into Java code snippets.
+Uses commands in English and translates them into Java code snippets.
